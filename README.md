@@ -8,3 +8,4 @@
 
 ## \- Proyecto de 2º SMR
 
+He aprendido de memoria el orden de los git
